@@ -1,0 +1,11 @@
+C:\Users\kolya\source\repos\ForExample\ForExample\bin\Debug\netcoreapp2.1\ForExample.deps.json
+C:\Users\kolya\source\repos\ForExample\ForExample\bin\Debug\netcoreapp2.1\ForExample.runtimeconfig.json
+C:\Users\kolya\source\repos\ForExample\ForExample\bin\Debug\netcoreapp2.1\ForExample.runtimeconfig.dev.json
+C:\Users\kolya\source\repos\ForExample\ForExample\bin\Debug\netcoreapp2.1\ForExample.dll
+C:\Users\kolya\source\repos\ForExample\ForExample\bin\Debug\netcoreapp2.1\ForExample.pdb
+C:\Users\kolya\source\repos\ForExample\ForExample\obj\Debug\netcoreapp2.1\ForExample.csprojAssemblyReference.cache
+C:\Users\kolya\source\repos\ForExample\ForExample\obj\Debug\netcoreapp2.1\ForExample.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\ForExample\ForExample\obj\Debug\netcoreapp2.1\ForExample.AssemblyInfoInputs.cache
+C:\Users\kolya\source\repos\ForExample\ForExample\obj\Debug\netcoreapp2.1\ForExample.AssemblyInfo.cs
+C:\Users\kolya\source\repos\ForExample\ForExample\obj\Debug\netcoreapp2.1\ForExample.dll
+C:\Users\kolya\source\repos\ForExample\ForExample\obj\Debug\netcoreapp2.1\ForExample.pdb

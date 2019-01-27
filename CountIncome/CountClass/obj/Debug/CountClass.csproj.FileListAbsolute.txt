@@ -1,0 +1,2 @@
+C:\Users\kolya\source\repos\CountIncome\CountClass\obj\Debug\CountClass.csprojAssemblyReference.cache
+C:\Users\kolya\source\repos\CountIncome\CountClass\obj\Debug\CountClass.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\kolya\source\repos\Balance\Balance\bin\Debug\Balance.exe.config
+C:\Users\kolya\source\repos\Balance\Balance\bin\Debug\Balance.exe
+C:\Users\kolya\source\repos\Balance\Balance\bin\Debug\Balance.pdb
+C:\Users\kolya\source\repos\Balance\Balance\obj\Debug\Balance.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\Balance\Balance\obj\Debug\Balance.exe
+C:\Users\kolya\source\repos\Balance\Balance\obj\Debug\Balance.pdb
+C:\Users\kolya\source\repos\Balance\Balance\obj\Debug\Balance.csprojAssemblyReference.cache

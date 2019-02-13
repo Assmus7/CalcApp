@@ -10,14 +10,22 @@ namespace Lesson3
     {
         protected int _speed; //что может машина
         protected string _type; // тип машины
+        protected string _answer; // ответ пользователя
 
         public Car()
         {
             _speed = 0;
             _type = "noname";
+            
         }
 
+        
+        
+          //protected int _speed = 10;
+        
+
         public abstract void Drive(); //абстрактный - что бы наследник мог определить
+        // Получается можно создать много абстрактных классов и переопределить их в классе наследнике, что бы выводить пользователю то, что он выбрал
 
         public override string ToString()
         {
@@ -30,16 +38,22 @@ namespace Lesson3
     /// </summary>
     public class Vaz : Car
     {
-        public  Vaz ()
-            :base()
+
+        //Переопределение реализации базового(Car) класса
+        public Vaz()
+                : base()
         {
             _type = "VAZ 2107";
         }
-
+        
         public override void Drive()
         {
             _speed = 60;
         }
+
+        //public string Answer()
+        //{
+        //}
     }
 
     /// <summary>
@@ -102,5 +116,10 @@ namespace Lesson3
     {
         void ExtendEngine();
     }
+
+    //public interface IAnswer
+    //{
+    //    string Answer();
+    //}
 
 }

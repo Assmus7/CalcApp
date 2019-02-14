@@ -5,3 +5,10 @@ C:\Users\kolya\source\repos\CountIncome\CountIncome\obj\Debug\CountIncome.csproj
 C:\Users\kolya\source\repos\CountIncome\CountIncome\obj\Debug\CountIncome.exe
 C:\Users\kolya\source\repos\CountIncome\CountIncome\obj\Debug\CountIncome.pdb
 C:\Users\kolya\source\repos\CountIncome\CountIncome\obj\Debug\CountIncome.csprojAssemblyReference.cache
+C:\Users\kolya\source\repos\trashAll\CountIncome\CountIncome\bin\Debug\CountIncome.exe.config
+C:\Users\kolya\source\repos\trashAll\CountIncome\CountIncome\bin\Debug\CountIncome.exe
+C:\Users\kolya\source\repos\trashAll\CountIncome\CountIncome\bin\Debug\CountIncome.pdb
+C:\Users\kolya\source\repos\trashAll\CountIncome\CountIncome\obj\Debug\CountIncome.csprojAssemblyReference.cache
+C:\Users\kolya\source\repos\trashAll\CountIncome\CountIncome\obj\Debug\CountIncome.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\trashAll\CountIncome\CountIncome\obj\Debug\CountIncome.exe
+C:\Users\kolya\source\repos\trashAll\CountIncome\CountIncome\obj\Debug\CountIncome.pdb

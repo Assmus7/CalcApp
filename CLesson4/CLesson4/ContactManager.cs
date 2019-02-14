@@ -8,10 +8,11 @@ using System.Threading.Tasks;
 namespace CLesson4
 {
     class ContactManager
-    {
+    {        
         private List<ContactEntry> _entries;
         private string _filePath;
 
+        // Конструктор ContactManager 
         public ContactManager()
         {
             _entries = new List<ContactEntry>();
@@ -24,6 +25,11 @@ namespace CLesson4
             ReadFromFile(filePath);
         }
 
+        /// <summary>
+        /// Метод для считывания входящих данных
+        /// </summary>
+        /// <param name="filePath"></param>
+        /// <returns> Возвращает </returns>
         public bool ReadFromFile(string filePath)
         {
             _filePath = filePath;
@@ -33,13 +39,13 @@ namespace CLesson4
 
             StreamReader sr = File.OpenText(_filePath);
 
-            while (!sr.EndOfStream)
-            {
-                sr.ReadLine();
-            }
+                while (!sr.EndOfStream)
+                {
+                    sr.ReadLine();
+                }
 
-            return true;
-
+                return true;
+           
         }
 
         /// <summary>
